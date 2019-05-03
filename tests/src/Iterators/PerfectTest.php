@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class PerfectTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\Perfect
  */
 final class PerfectTest extends AbstractTest
 {

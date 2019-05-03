@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class PermutationsTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Generators\Permutations
  */
 final class PermutationsTest extends AbstractTest
 {

@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class ShiftTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\Shift
  */
 final class ShiftTest extends AbstractTest
 {

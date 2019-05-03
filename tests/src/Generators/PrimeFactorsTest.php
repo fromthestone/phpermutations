@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class PrimeFactorsTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Generators\PrimeFactors
  */
 final class PrimeFactorsTest extends AbstractTest
 {

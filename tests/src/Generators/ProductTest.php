@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class ProductTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Generators\Product
  */
 final class ProductTest extends AbstractTest
 {

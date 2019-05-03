@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class NgramsTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\NGrams
  */
 final class NgramsTest extends AbstractTest
 {

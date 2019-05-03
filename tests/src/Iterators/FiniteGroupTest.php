@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class FiniteGroupTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\FiniteGroup
  */
 final class FiniteGroupTest extends AbstractTest
 {

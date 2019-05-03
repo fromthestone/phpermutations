@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class FibonacciTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\Fibonacci
  */
 final class FibonacciTest extends AbstractTest
 {

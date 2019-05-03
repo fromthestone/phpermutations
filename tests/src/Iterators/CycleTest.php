@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class CycleTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\Cycle
  */
 final class CycleTest extends AbstractTest
 {

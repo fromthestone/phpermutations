@@ -9,7 +9,7 @@ use drupol\phpermutations\Tests\AbstractTest;
  * Class RotationTest.
  *
  * @internal
- * @coversNothing
+ * @covers \drupol\phpermutations\Iterators\Rotation
  */
 final class RotationTest extends AbstractTest
 {
